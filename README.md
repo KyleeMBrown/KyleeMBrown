@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylee-brown-7167b9274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kyleebrown.work@gmail.com) 
-[![Personal Portfolio](https://img.shields.io/badge/Resume-pink?link=https%3A%2F%2Fgithub.com%2FKyleeMBrown%2FKyleeMBrown_RESUME%2Fblob%2Fmain%2FKyleeBrown_Resume_JUNE_2026.pdf)](https://kyleeb-portfolio.netlify.app)
+[![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-pink?link=https%3A%2F%2Fgithub.com%2FKyleeMBrown%2FKyleeMBrown_RESUME%2Fblob%2Fmain%2FKyleeBrown_Resume_JUNE_2026.pdf)](https://kyleeb-portfolio.netlify.app)
 
 
 # 💻 Tech Stack:
